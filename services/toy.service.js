@@ -29,15 +29,15 @@ function remove(toyId, loggedinUser) {
     const idx = toys.findIndex(toy => toy._id === toyId)
     if (idx === -1) return Promise.reject('No Such toy')
     const toy = toys[idx]
-    if (!loggedinUser.isAdmin &&
+    /* if (!loggedinUser.isAdmin &&
         toy.owner._id !== loggedinUser._id) {
         return Promise.reject('Not your toy')
-    }
+    } */
     toys.splice(idx, 1)
     return _savetoysToFile()
 }
 
-function save(toy, loggedinUser) {
+function save(toy) {
     if (toy._id) {
         const toyToUpdate = toys.find(currtoy => currtoy._id === toy._id)
         /* if (!loggedinUser.isAdmin &&
@@ -47,11 +47,15 @@ function save(toy, loggedinUser) {
         toyToUpdate.name = toy.name
         toyToUpdate.labael = toy.labael
         toyToUpdate.price = toy.price
+        toyToUpdate. inStock = toy.inStock
+        toyToUpdate._id = toy._id
         toy = toyToUpdate
+    
     } else {
         toy._id = utilService.makeId()
+        toys.push(toy)
     }
-    toys.push(toy)
+    
     return _savetoysToFile().then(() => toy)
 }
 

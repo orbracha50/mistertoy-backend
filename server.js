@@ -8,22 +8,28 @@ import { loggerService } from './services/logger,service.js';
 import { utilService } from './services/util.service.js';
 const app = express()
 
-const corsOptions = {
-    origin: [
-        'http://127.0.0.1:3000',
-        'http://localhost:3000',
-        'http://127.0.0.1:5173',
-        'http://localhost:5173',
-    ],
-    credentials: true
-}
-app.use(cors(corsOptions))
 
-
-// Express Config:
-app.use(express.static('public'))
 app.use(cookieParser())
 app.use(express.json())
+
+
+if (process.env.NODE_ENV === 'production') {
+    app.use(express.static('public'))
+  } else {
+    const corsOptions = {
+      origin: [
+        'http://127.0.0.1:3000',
+        'http://localhost:3000',
+        'http://localhost:5174',
+        'http://127.0.0.1:5174',
+      ],
+      credentials: true,
+    }
+    app.use(cors(corsOptions))
+  }
+
+// Express Config:
+
 
 // REST API for toys
 
@@ -66,7 +72,7 @@ app.post('/api/toy', (req, res) => {
         price: +req.body.price,
         label: req.body.label,
         createsAt: Date.now(),
-
+        inStock: true,
     }
     toyService.save(toy)
         .then((savedtoy) => {
@@ -81,15 +87,16 @@ app.post('/api/toy', (req, res) => {
 
 // toy UPDATE
 app.put('/api/toy', (req, res) => {
-    const loggedinUser = userService.validateToken(req.cookies.loginToken)
-    if (!loggedinUser) return res.status(401).send('Cannot update toy')
+    /* const loggedinUser = userService.validateToken(req.cookies.loginToken)
+    if (!loggedinUser) return res.status(401).send('Cannot update toy') */
     const toy = {
         _id: req.body._id,
-        vendor: req.body.vendor,
-        speed: +req.body.speed,
+        name: req.body.name,
+        inStock: +req.body.inStock,
         price: +req.body.price,
+        label: req.body.label
     }
-    toyService.save(toy, loggedinUser)
+    toyService.save(toy)
         .then((savedtoy) => {
             res.send(savedtoy)
         })
@@ -102,15 +109,15 @@ app.put('/api/toy', (req, res) => {
 
 // toy DELETE
 app.delete('/api/toy/:toyId', (req, res) => {
-    const loggedinUser = userService.validateToken(req.cookies.loginToken)
+   /*  const loggedinUser = userService.validateToken(req.cookies.loginToken)
     loggerService.info('loggedinUser toy delete:', loggedinUser)
     if (!loggedinUser) {
         loggerService.info('Cannot remove toy, No user')
         return res.status(401).send('Cannot remove toy')
-    }
+    } */
 
     const { toyId } = req.params
-    toyService.remove(toyId, loggedinUser)
+    toyService.remove(toyId)
         .then(() => {
             loggerService.info(`toy ${toyId} removed`)
             res.send('Removed!')

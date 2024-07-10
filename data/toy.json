@@ -1,15 +1,5 @@
 [
     {
-        "name": "buzz",
-        "instock": true,
-        "createdAt": 1243423435,
-        "labels": [
-            "Doll"
-        ],
-        "price": 60,
-        "_id": "c101"
-    },
-    {
         "name": "tomy",
         "instock": true,
         "createdAt": 124343435,
@@ -68,30 +58,5 @@
         ],
         "price": 30,
         "_id": "c107"
-    },
-    {
-        "price": null,
-        "createsAt": 1720540384553
-    },
-    {
-        "name": "buzz",
-        "price": 60,
-        "createsAt": 1720540436329
-    },
-    {
-        "name": "buzz",
-        "price": 60,
-        "createsAt": 1720540534895
-    },
-    {
-        "name": "buzz",
-        "price": 60,
-        "createsAt": 1720540546076
-    },
-    {
-        "name": "buzz",
-        "price": 60,
-        "createsAt": 1720541364704,
-        "_id": "60NeW"
     }
 ]
