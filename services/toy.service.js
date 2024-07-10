@@ -30,6 +30,11 @@ function query(filterBy = {}) {
             filteredToys = filteredToys.filter(toy => toy.inStock === true)
         }
     }
+    if (filterBy.labels && filterBy.labels.length) {
+        filteredToys = filteredToys.filter(toy =>
+          filterBy.labels.every(label => toy.labels.includes(label))
+        )
+      }
     if (filterBy.sortBy) {
         if (filterBy.sortBy === 'name') {
             filteredToys = filteredToys.sort((a, b) => a.name.localeCompare(b.name));
