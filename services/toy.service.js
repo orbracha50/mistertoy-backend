@@ -11,13 +11,42 @@ export const toyService = {
 
 const toys = utilService.readJsonFile('data/toy.json')
 
-function query(filterBy = { txt: '' }) {
-    const regex = new RegExp(filterBy.txt, 'i')
-    var toysToReturn = toys.filter(toy => regex.test(toy.vendor))
-    if (filterBy.maxPrice) {
-        toysToReturn = toysToReturn.filter(toy => toy.price <= filterBy.maxPrice)
+function query(filterBy = {}) {
+    console.log(filterBy)
+    let filteredToys = toys
+    if (filterBy.name) {
+        const regExp = new RegExp(filterBy.name, 'i')
+        filteredToys = filteredToys.filter(toy => regExp.test(toy.name))
     }
-    return Promise.resolve(toysToReturn)
+    if (filterBy.stock) {
+        if (filterBy.stock === 'All') {
+            filteredToys = filteredToys
+        }
+        if (filterBy.stock === 'outOfStock') {
+            filteredToys = filteredToys.filter(toy => toy.inStock === false)
+        }
+        if (filterBy.stock === 'inStock') {
+            console.log(filteredToys)
+            filteredToys = filteredToys.filter(toy => toy.inStock === true)
+        }
+    }
+    if (filterBy.sortBy) {
+        if (filterBy.sortBy === 'name') {
+            filteredToys = filteredToys.sort((a, b) => a.name.localeCompare(b.name));
+            console.log(filteredToys)
+        } else if (filterBy.sortBy === 'price') {
+            filteredToys = filteredToys.sort((a, b) => a.price - b.price);
+        }
+        else if (filterBy.sortBy === 'created') {
+            filteredToys = filteredToys.sort((a, b) => a.createdAt - b.createdAt);
+        }
+    }
+    /* if (pageIdx !== undefined) {
+      let startIdx = pageIdx * PAGE_SIZE
+      filteredToys = filteredToys.slice(startIdx, startIdx + PAGE_SIZE)
+    } */
+   
+    return Promise.resolve(filteredToys)/* .resolve(toysToReturn) */
 }
 
 function getById(toyId) {
@@ -47,15 +76,15 @@ function save(toy) {
         toyToUpdate.name = toy.name
         toyToUpdate.labael = toy.labael
         toyToUpdate.price = toy.price
-        toyToUpdate. inStock = toy.inStock
+        toyToUpdate.inStock = toy.inStock
         toyToUpdate._id = toy._id
         toy = toyToUpdate
-    
+
     } else {
         toy._id = utilService.makeId()
         toys.push(toy)
     }
-    
+
     return _savetoysToFile().then(() => toy)
 }
 

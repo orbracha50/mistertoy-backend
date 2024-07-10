@@ -1,7 +1,7 @@
 [
     {
         "name": "tomy",
-        "instock": true,
+        "inStock": true,
         "createdAt": 124343435,
         "labels": [
             "Outdoor"
@@ -11,7 +11,7 @@
     },
     {
         "name": "lion",
-        "instock": false,
+        "inStock": false,
         "createdAt": 1243324435,
         "labels": [
             "Battery Powered"
@@ -21,7 +21,7 @@
     },
     {
         "name": "baby",
-        "instock": true,
+        "inStock": true,
         "createdAt": 124334435,
         "labels": [
             "Doll"
@@ -31,7 +31,7 @@
     },
     {
         "name": "mask",
-        "instock": false,
+        "inStock": false,
         "createdAt": 1243432435,
         "labels": [
             "Battery Powered"
@@ -41,7 +41,7 @@
     },
     {
         "name": "ball",
-        "instock": true,
+        "inStock": true,
         "createdAt": 1243433435,
         "labels": [
             "Outdoor"
@@ -51,7 +51,7 @@
     },
     {
         "name": "ninja",
-        "instock": false,
+        "inStock": false,
         "createdAt": 12243435,
         "labels": [
             "Doll"

@@ -35,11 +35,7 @@ if (process.env.NODE_ENV === 'production') {
 
 // toy LIST
 app.get('/api/toy', (req, res) => {
-    console.log('get list')
-    const filterBy = {
-        txt: req.query.txt || '',
-        maxPrice: +req.query.maxPrice || 0,
-    }
+    const { filterBy = {}} = req.query
     toyService.query(filterBy)
         .then((toys) => {
             res.send(toys)
