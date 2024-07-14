@@ -3,18 +3,21 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "set SECRET1=bobi-ba-1971&nodemon --ignore \"./data\" server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon server.js",
+    "server:dev": "nodemon server.js",
+    "server:prod": "set NODE_ENV=production&&node server.js"
   },
   "author": "or bracha",
   "type": "module",
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "cryptr": "^6.3.0",
     "express": "^4.19.2",
-    "follow-redirects": "^1.15.6"
+    "follow-redirects": "^1.15.6",
+    "mongodb": "^6.8.0"
   }
 }
