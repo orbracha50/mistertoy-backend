@@ -1,7 +1,7 @@
 import { ObjectId } from 'mongodb'
 
 import { dbService } from '../../services/db.service.js'
-import { loggerService } from '../../services/logger,service.js'
+import { loggerService } from '../../services/logger.service.js'
 import { utilService } from '../../services/util.service.js'
 
 export const toyService = {
@@ -15,7 +15,6 @@ export const toyService = {
 }
 
 async function query(filterBy = { txt: '' }) {
-    console.log(filterBy)
 	try {
 		const criteria = _buildCriteria(filterBy)
 		const collection = await dbService.getCollection('toy')

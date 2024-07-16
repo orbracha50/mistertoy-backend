@@ -896,3 +896,766 @@
 16.7.2024, 12:44:11 - INFO - Req was made | /
 16.7.2024, 12:44:32 - INFO - Req was made | /
 16.7.2024, 15:16:19 - INFO - Req was made | /
+16.7.2024, 15:26:06 - INFO - Req was made | /
+16.7.2024, 15:26:08 - INFO - Req was made | /
+16.7.2024, 15:26:08 - INFO - Req was made | /
+16.7.2024, 15:30:27 - INFO - Req was made | /
+16.7.2024, 15:30:27 - INFO - Req was made | /
+16.7.2024, 15:30:28 - INFO - Req was made | /
+16.7.2024, 15:30:28 - INFO - Req was made | /
+16.7.2024, 15:46:05 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 15:46:06 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 15:46:07 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 15:46:10 - INFO - Req was made | /
+16.7.2024, 15:46:11 - INFO - Req was made | /
+16.7.2024, 15:46:33 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 15:46:35 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 15:46:36 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 15:46:39 - INFO - Req was made | /
+16.7.2024, 15:46:40 - INFO - Req was made | /
+16.7.2024, 15:46:41 - INFO - Req was made | /
+16.7.2024, 15:46:41 - INFO - Req was made | /
+16.7.2024, 15:48:01 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 15:48:02 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 15:48:05 - INFO - Req was made | /
+16.7.2024, 15:48:06 - INFO - Req was made | /
+16.7.2024, 15:48:47 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 15:48:50 - INFO - Req was made | /
+16.7.2024, 15:48:51 - INFO - Req was made | /
+16.7.2024, 15:49:57 - INFO - Req was made | /
+16.7.2024, 15:49:57 - INFO - Req was made | /
+16.7.2024, 15:49:58 - INFO - Req was made | /
+16.7.2024, 15:49:58 - INFO - Req was made | /
+16.7.2024, 15:51:34 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 15:51:35 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 15:51:36 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 15:51:43 - INFO - Req was made | /
+16.7.2024, 15:51:44 - INFO - Req was made | /
+16.7.2024, 15:51:49 - DEBUG - auth.service - login with username: muki
+16.7.2024, 15:51:49 - ERROR - Failed to Login Error: Invalid username or password
+16.7.2024, 15:52:17 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 15:52:18 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 15:52:22 - INFO - Req was made | /
+16.7.2024, 15:52:23 - INFO - Req was made | /
+16.7.2024, 16:01:34 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:01:37 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:01:37 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:01:38 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:01:41 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:01:53 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:01:54 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:01:55 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:01:59 - INFO - Req was made | /
+16.7.2024, 16:02:00 - ERROR - cannot find toys | ReferenceError: logger is not defined
+16.7.2024, 16:02:00 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+16.7.2024, 16:02:00 - INFO - Req was made | /
+16.7.2024, 16:02:01 - ERROR - cannot find toys | ReferenceError: logger is not defined
+16.7.2024, 16:02:01 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+16.7.2024, 16:02:30 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:02:33 - INFO - Req was made | /
+16.7.2024, 16:02:34 - ERROR - cannot find toys | ReferenceError: logger is not defined
+16.7.2024, 16:02:34 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+16.7.2024, 16:02:34 - INFO - Req was made | /
+16.7.2024, 16:02:34 - ERROR - cannot find toys | ReferenceError: logger is not defined
+16.7.2024, 16:02:34 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+16.7.2024, 16:02:38 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:02:39 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:02:40 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:02:43 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:02:45 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:02:46 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:02:48 - INFO - Req was made | /
+16.7.2024, 16:02:49 - ERROR - cannot find toys | ReferenceError: logger is not defined
+16.7.2024, 16:02:49 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+16.7.2024, 16:02:49 - INFO - Req was made | /
+16.7.2024, 16:02:50 - ERROR - cannot find toys | ReferenceError: logger is not defined
+16.7.2024, 16:02:50 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+16.7.2024, 16:03:42 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:03:45 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:03:46 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:03:46 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:03:48 - INFO - Req was made | /
+16.7.2024, 16:03:49 - ERROR - cannot find toys | ReferenceError: logger is not defined
+16.7.2024, 16:03:49 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+16.7.2024, 16:03:49 - INFO - Req was made | /
+16.7.2024, 16:03:50 - ERROR - cannot find toys | ReferenceError: logger is not defined
+16.7.2024, 16:03:50 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+16.7.2024, 16:04:14 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:04:18 - INFO - Req was made | /
+16.7.2024, 16:04:19 - ERROR - cannot find toys | ReferenceError: logger is not defined
+16.7.2024, 16:04:19 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+16.7.2024, 16:04:19 - INFO - Req was made | /
+16.7.2024, 16:04:20 - ERROR - cannot find toys | ReferenceError: logger is not defined
+16.7.2024, 16:04:20 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+16.7.2024, 16:05:47 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:05:49 - INFO - Req was made | /
+16.7.2024, 16:05:50 - ERROR - cannot find toys | ReferenceError: logger is not defined
+16.7.2024, 16:05:50 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+16.7.2024, 16:05:50 - INFO - Req was made | /
+16.7.2024, 16:05:50 - ERROR - cannot find toys | ReferenceError: logger is not defined
+16.7.2024, 16:05:50 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+16.7.2024, 16:06:01 - INFO - Req was made | /
+16.7.2024, 16:06:02 - ERROR - cannot find toys | ReferenceError: logger is not defined
+16.7.2024, 16:06:02 - ERROR - Failed to get toys | ReferenceError: logger is not defined
+16.7.2024, 16:06:47 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:06:50 - INFO - Req was made | /
+16.7.2024, 16:06:50 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:06:50 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:06:50 - ERROR - cannot find toys | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:06:50 - ERROR - Failed to get toys | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:07:26 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:07:29 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:07:29 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:07:29 - ERROR - cannot find users | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:07:29 - ERROR - Failed to get users | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:08:04 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:08:10 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:08:10 - ERROR - cannot find users | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:08:10 - ERROR - Failed to get users | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:08:10 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:08:28 - INFO - Req was made | /
+16.7.2024, 16:08:29 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:08:29 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:08:29 - ERROR - cannot find toys | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:08:29 - ERROR - Failed to get toys | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:11:15 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:11:20 - INFO - Req was made | /
+16.7.2024, 16:11:21 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:11:21 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:11:21 - ERROR - cannot find toys | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:11:21 - ERROR - Failed to get toys | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:11:21 - INFO - Req was made | /
+16.7.2024, 16:11:21 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:11:21 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:11:21 - ERROR - cannot find toys | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:11:21 - ERROR - Failed to get toys | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:15:05 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:15:10 - INFO - Req was made | /
+16.7.2024, 16:15:10 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:15:10 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:15:10 - ERROR - Failed to get toys | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:15:10 - ERROR - cannot find toys | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:15:10 - INFO - Req was made | /
+16.7.2024, 16:15:11 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:15:11 - ERROR - Failed to get toys | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:15:11 - ERROR - cannot find toys | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:15:11 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:15:42 - DEBUG - auth.service - login with username: muki
+16.7.2024, 16:15:43 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:15:43 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:15:43 - ERROR - Failed to Login ReferenceError: logger is not defined
+16.7.2024, 16:20:45 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:20:49 - INFO - Req was made | /
+16.7.2024, 16:20:50 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:20:50 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:20:50 - ERROR - cannot find toys | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:20:50 - ERROR - Failed to get toys | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:22:18 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:22:22 - INFO - Req was made | /
+16.7.2024, 16:22:23 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:22:23 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:22:23 - ERROR - cannot find toys | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:22:23 - ERROR - Failed to get toys | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:22:47 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:22:55 - INFO - Req was made | /
+16.7.2024, 16:22:56 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:22:56 - ERROR - cannot find toys | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:22:56 - ERROR - Failed to get toys | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:22:56 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:22:56 - INFO - Req was made | /
+16.7.2024, 16:22:57 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:22:57 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:22:57 - ERROR - cannot find toys | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:22:57 - ERROR - Failed to get toys | MongoServerError: bad auth : authentication failed
+16.7.2024, 16:23:08 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:23:11 - INFO - Req was made | /
+16.7.2024, 16:23:11 - INFO - Req was made | /
+16.7.2024, 16:23:49 - INFO - Req was made | /
+16.7.2024, 16:23:50 - INFO - Req was made | /
+16.7.2024, 16:23:52 - INFO - Req was made | /
+16.7.2024, 16:23:52 - INFO - Req was made | /
+16.7.2024, 16:23:52 - INFO - Req was made | /
+16.7.2024, 16:23:53 - INFO - Req was made | /
+16.7.2024, 16:23:53 - INFO - Req was made | /
+16.7.2024, 16:24:10 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:24:14 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:24:22 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:24:30 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:24:32 - INFO - Req was made | /
+16.7.2024, 16:24:32 - INFO - Req was made | /
+16.7.2024, 16:25:30 - INFO - Req was made | /
+16.7.2024, 16:26:08 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:26:09 - INFO - Req was made | /
+16.7.2024, 16:26:12 - INFO - Req was made | /
+16.7.2024, 16:26:13 - INFO - Req was made | /
+16.7.2024, 16:27:13 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:36:19 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:36:34 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:37:33 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:37:35 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:37:53 - INFO - Req was made | /
+16.7.2024, 16:37:53 - INFO - Req was made | /
+16.7.2024, 16:37:57 - INFO - Req was made | /
+16.7.2024, 16:37:57 - INFO - Req was made | /
+16.7.2024, 16:38:03 - INFO - Req was made | /
+16.7.2024, 16:38:32 - INFO - Req was made | /
+16.7.2024, 16:38:36 - INFO - Req was made | /
+16.7.2024, 16:38:48 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id')
+16.7.2024, 16:39:00 - DEBUG - auth.service - login with username: muki
+16.7.2024, 16:39:01 - INFO - User login:  | {"_id":"66958a9c0dea5566d633a658","username":"muki","fullname":"or bracha","score":0}
+16.7.2024, 16:39:10 - INFO - Req was made | /
+16.7.2024, 16:39:20 - INFO - Req was made | /
+16.7.2024, 16:39:20 - INFO - Req was made | /
+16.7.2024, 16:39:21 - INFO - Req was made | /
+16.7.2024, 16:42:51 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:43:44 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:48:21 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 16:48:21 - INFO - New connected socket [id: oUJkjxGCL-mtamU1AAAB]
+16.7.2024, 16:48:21 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: oUJkjxGCL-mtamU1AAAB]
+16.7.2024, 16:48:40 - INFO - Req was made | /
+16.7.2024, 16:48:40 - INFO - Req was made | /
+16.7.2024, 16:48:46 - INFO - Req was made | /
+16.7.2024, 16:48:51 - INFO - Socket is leaving topic Love [id: oUJkjxGCL-mtamU1AAAB]
+16.7.2024, 16:48:52 - INFO - Socket is leaving topic Politics [id: oUJkjxGCL-mtamU1AAAB]
+16.7.2024, 16:48:53 - INFO - Socket is leaving topic Love [id: oUJkjxGCL-mtamU1AAAB]
+16.7.2024, 16:49:00 - INFO - New chat msg from socket [id: oUJkjxGCL-mtamU1AAAB], emitting to topic Politics
+16.7.2024, 16:49:03 - INFO - Socket is leaving topic Politics [id: oUJkjxGCL-mtamU1AAAB]
+16.7.2024, 16:49:09 - INFO - New chat msg from socket [id: oUJkjxGCL-mtamU1AAAB], emitting to topic Love
+16.7.2024, 16:49:27 - INFO - New connected socket [id: Jq0XGES-uHaa9p1FAAAD]
+16.7.2024, 16:49:27 - INFO - Req was made | /
+16.7.2024, 16:49:46 - DEBUG - auth.service - signup with username: mic, fullname: miki
+16.7.2024, 16:49:46 - DEBUG - auth.route - new account created: {"username":"mic","password":"$2b$10$fgAjsJ54wn0lAnAKG0SEdO4ogcDBK5rv7UR6J97AaTJjpyX5Lls0i","fullname":"miki","score":0,"_id":"66967a7aa4c8b9d52443ae5c"}
+16.7.2024, 16:49:46 - DEBUG - auth.service - login with username: mic
+16.7.2024, 16:49:51 - INFO - Req was made | /
+16.7.2024, 16:49:51 - INFO - Req was made | /
+16.7.2024, 16:49:55 - INFO - Req was made | /
+16.7.2024, 16:49:58 - INFO - Socket is leaving topic Love [id: Jq0XGES-uHaa9p1FAAAD]
+16.7.2024, 16:49:59 - INFO - Socket is leaving topic Politics [id: Jq0XGES-uHaa9p1FAAAD]
+16.7.2024, 16:50:01 - INFO - Socket is leaving topic Love [id: Jq0XGES-uHaa9p1FAAAD]
+16.7.2024, 16:50:02 - INFO - Socket is leaving topic Politics [id: Jq0XGES-uHaa9p1FAAAD]
+16.7.2024, 16:50:06 - INFO - New chat msg from socket [id: Jq0XGES-uHaa9p1FAAAD], emitting to topic Love
+16.7.2024, 16:50:10 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 16:50:10 - INFO - New connected socket [id: Sy3W8GJjYXxJv8ElAAAF]
+16.7.2024, 16:50:10 - INFO - Setting socket.userId = null for socket [id: Sy3W8GJjYXxJv8ElAAAF]
+16.7.2024, 16:50:10 - INFO - Req was made | /
+16.7.2024, 16:50:12 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 16:50:12 - INFO - New connected socket [id: Y0y1PGMeLy-eiSX9AAAH]
+16.7.2024, 16:50:12 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: Y0y1PGMeLy-eiSX9AAAH]
+16.7.2024, 16:50:12 - INFO - Req was made | /
+16.7.2024, 16:50:19 - INFO - New chat msg from socket [id: Y0y1PGMeLy-eiSX9AAAH], emitting to topic Love
+16.7.2024, 16:50:25 - INFO - New chat msg from socket [id: Sy3W8GJjYXxJv8ElAAAF], emitting to topic Love
+16.7.2024, 16:50:49 - INFO - Req was made | /
+16.7.2024, 16:50:49 - INFO - Req was made | /
+16.7.2024, 16:50:53 - INFO - Req was made | /
+16.7.2024, 16:51:00 - INFO - New chat msg from socket [id: Y0y1PGMeLy-eiSX9AAAH], emitting to topic Love
+16.7.2024, 16:51:07 - INFO - New chat msg from socket [id: Y0y1PGMeLy-eiSX9AAAH], emitting to topic Love
+16.7.2024, 16:57:06 - INFO - Req was made | /
+16.7.2024, 16:57:06 - INFO - Req was made | /
+16.7.2024, 16:58:13 - INFO - Socket is leaving topic Love [id: Y0y1PGMeLy-eiSX9AAAH]
+16.7.2024, 16:58:13 - INFO - Socket is leaving topic Love [id: Sy3W8GJjYXxJv8ElAAAF]
+16.7.2024, 16:58:53 - INFO - New chat msg from socket [id: Y0y1PGMeLy-eiSX9AAAH], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 16:59:13 - INFO - New chat msg from socket [id: Sy3W8GJjYXxJv8ElAAAF], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 16:59:15 - INFO - Req was made | /
+16.7.2024, 16:59:16 - INFO - Req was made | /
+16.7.2024, 16:59:19 - INFO - Req was made | /
+16.7.2024, 16:59:19 - INFO - Socket is leaving topic 6693e0a0dad65791ad9648c1 [id: Sy3W8GJjYXxJv8ElAAAF]
+16.7.2024, 16:59:22 - INFO - New chat msg from socket [id: Sy3W8GJjYXxJv8ElAAAF], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:12:24 - INFO - Req was made | /
+16.7.2024, 17:12:24 - INFO - Req was made | /
+16.7.2024, 17:15:10 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:17:44 - INFO - New connected socket [id: d4Nzyb2x_WSszi1xAAAJ]
+16.7.2024, 17:17:44 - INFO - Setting socket.userId = null for socket [id: d4Nzyb2x_WSszi1xAAAJ]
+16.7.2024, 17:17:52 - INFO - New connected socket [id: Bl8h92LX9GpdKDD_AAAL]
+16.7.2024, 17:17:52 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: Bl8h92LX9GpdKDD_AAAL]
+16.7.2024, 17:17:52 - INFO - Req was made | /
+16.7.2024, 17:18:17 - INFO - New chat msg from socket [id: Bl8h92LX9GpdKDD_AAAL], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:20:16 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 17:20:17 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 17:20:17 - INFO - New connected socket [id: r65228XocU0UOEMgAAAB]
+16.7.2024, 17:20:18 - INFO - New connected socket [id: xclDxNr6k28Mu4NcAAAE]
+16.7.2024, 17:20:18 - INFO - New connected socket [id: -5_0AxUoEmQIQ8nbAAAF]
+16.7.2024, 17:20:21 - INFO - New chat msg from socket [id: r65228XocU0UOEMgAAAB], emitting to topic undefined
+16.7.2024, 17:20:22 - INFO - New chat msg from socket [id: r65228XocU0UOEMgAAAB], emitting to topic undefined
+16.7.2024, 17:20:24 - INFO - New chat msg from socket [id: r65228XocU0UOEMgAAAB], emitting to topic undefined
+16.7.2024, 17:20:53 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:20:53 - INFO - New connected socket [id: d-dpMttJvtFVQ2t_AAAH]
+16.7.2024, 17:20:53 - INFO - Req was made | /
+16.7.2024, 17:20:53 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: d-dpMttJvtFVQ2t_AAAH]
+16.7.2024, 17:20:56 - INFO - New chat msg from socket [id: d-dpMttJvtFVQ2t_AAAH], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:20:56 - INFO - New chat msg from socket [id: d-dpMttJvtFVQ2t_AAAH], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:20:58 - INFO - New chat msg from socket [id: d-dpMttJvtFVQ2t_AAAH], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:20:58 - INFO - New chat msg from socket [id: d-dpMttJvtFVQ2t_AAAH], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:21:00 - INFO - New chat msg from socket [id: d-dpMttJvtFVQ2t_AAAH], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:21:12 - INFO - New chat msg from socket [id: d-dpMttJvtFVQ2t_AAAH], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:21:13 - INFO - New chat msg from socket [id: d-dpMttJvtFVQ2t_AAAH], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:21:13 - INFO - New chat msg from socket [id: d-dpMttJvtFVQ2t_AAAH], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:21:13 - INFO - New chat msg from socket [id: d-dpMttJvtFVQ2t_AAAH], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:21:14 - INFO - New chat msg from socket [id: d-dpMttJvtFVQ2t_AAAH], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:21:15 - INFO - New chat msg from socket [id: d-dpMttJvtFVQ2t_AAAH], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:21:15 - INFO - New chat msg from socket [id: d-dpMttJvtFVQ2t_AAAH], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:21:19 - INFO - New chat msg from socket [id: d-dpMttJvtFVQ2t_AAAH], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:21:23 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:21:23 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:21:23 - INFO - New connected socket [id: qVU5wKfnSNnL20HuAAAJ]
+16.7.2024, 17:21:23 - INFO - Setting socket.userId = null for socket [id: qVU5wKfnSNnL20HuAAAJ]
+16.7.2024, 17:21:23 - INFO - Req was made | /
+16.7.2024, 17:21:25 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:21:25 - INFO - New connected socket [id: bXfeFkmL0jTMy1I2AAAL]
+16.7.2024, 17:21:25 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: bXfeFkmL0jTMy1I2AAAL]
+16.7.2024, 17:21:25 - INFO - Req was made | /
+16.7.2024, 17:21:27 - INFO - New chat msg from socket [id: bXfeFkmL0jTMy1I2AAAL], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:21:28 - INFO - New chat msg from socket [id: bXfeFkmL0jTMy1I2AAAL], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:21:28 - INFO - New chat msg from socket [id: bXfeFkmL0jTMy1I2AAAL], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:23:32 - INFO - New chat msg from socket [id: bXfeFkmL0jTMy1I2AAAL], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:23:32 - INFO - New chat msg from socket [id: bXfeFkmL0jTMy1I2AAAL], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:23:37 - INFO - New chat msg from socket [id: bXfeFkmL0jTMy1I2AAAL], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:24:25 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:24:25 - INFO - Req was made | /
+16.7.2024, 17:24:25 - INFO - New connected socket [id: 8hijOY-xuNGx71sHAAAN]
+16.7.2024, 17:24:25 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: 8hijOY-xuNGx71sHAAAN]
+16.7.2024, 17:24:26 - INFO - New chat msg from socket [id: 8hijOY-xuNGx71sHAAAN], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:24:28 - INFO - New chat msg from socket [id: 8hijOY-xuNGx71sHAAAN], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:24:33 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:24:33 - INFO - New connected socket [id: TSJQchhhm8_mFH9_AAAP]
+16.7.2024, 17:24:33 - INFO - Setting socket.userId = null for socket [id: TSJQchhhm8_mFH9_AAAP]
+16.7.2024, 17:24:33 - INFO - Req was made | /
+16.7.2024, 17:24:35 - INFO - New chat msg from socket [id: 8hijOY-xuNGx71sHAAAN], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:24:37 - INFO - New chat msg from socket [id: 8hijOY-xuNGx71sHAAAN], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:24:39 - INFO - New chat msg from socket [id: 8hijOY-xuNGx71sHAAAN], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:24:41 - INFO - New chat msg from socket [id: 8hijOY-xuNGx71sHAAAN], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:24:43 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:24:43 - INFO - New connected socket [id: D7FJK7CJCfNFNbz4AAAR]
+16.7.2024, 17:24:43 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: D7FJK7CJCfNFNbz4AAAR]
+16.7.2024, 17:24:43 - INFO - Req was made | /
+16.7.2024, 17:27:49 - INFO - New chat msg from socket [id: D7FJK7CJCfNFNbz4AAAR], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:27:54 - INFO - New chat msg from socket [id: D7FJK7CJCfNFNbz4AAAR], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:28:02 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:28:02 - INFO - New connected socket [id: vIv-CaDXMJ49pAgtAAAT]
+16.7.2024, 17:28:02 - INFO - Setting socket.userId = null for socket [id: vIv-CaDXMJ49pAgtAAAT]
+16.7.2024, 17:28:02 - INFO - Req was made | /
+16.7.2024, 17:28:09 - INFO - New chat msg from socket [id: vIv-CaDXMJ49pAgtAAAT], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:28:11 - INFO - New chat msg from socket [id: vIv-CaDXMJ49pAgtAAAT], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:28:13 - INFO - New chat msg from socket [id: vIv-CaDXMJ49pAgtAAAT], emitting to topic 6693e0a7dad65791ad9648c2
+16.7.2024, 17:28:47 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:28:47 - INFO - New connected socket [id: dpkNjqJXfBUO2lWdAAAV]
+16.7.2024, 17:28:47 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: dpkNjqJXfBUO2lWdAAAV]
+16.7.2024, 17:28:47 - INFO - Req was made | /
+16.7.2024, 17:31:35 - INFO - New connected socket [id: Mfz2HdS75QMRMz5vAAAY]
+16.7.2024, 17:31:35 - INFO - New connected socket [id: lG9VKDvW5TAmVVZJAAAZ]
+16.7.2024, 17:31:35 - INFO - Setting socket.userId = null for socket [id: Mfz2HdS75QMRMz5vAAAY]
+16.7.2024, 17:31:35 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: lG9VKDvW5TAmVVZJAAAZ]
+16.7.2024, 17:31:59 - INFO - New connected socket [id: DbPHUFPqOYbZfXZiAAAc]
+16.7.2024, 17:31:59 - INFO - New connected socket [id: QGXm9_LM-AfvOY0uAAAd]
+16.7.2024, 17:31:59 - INFO - Setting socket.userId = null for socket [id: DbPHUFPqOYbZfXZiAAAc]
+16.7.2024, 17:31:59 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: QGXm9_LM-AfvOY0uAAAd]
+16.7.2024, 17:32:16 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:32:16 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:32:16 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:32:16 - INFO - New connected socket [id: wsjTELMjMh2tx--UAAAf]
+16.7.2024, 17:32:16 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: wsjTELMjMh2tx--UAAAf]
+16.7.2024, 17:32:16 - INFO - Req was made | /
+16.7.2024, 17:32:19 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:32:19 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:32:19 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:32:19 - INFO - New connected socket [id: QbyQC9d2sCZarjJ-AAAh]
+16.7.2024, 17:32:19 - INFO - Req was made | /
+16.7.2024, 17:32:19 - INFO - Setting socket.userId = null for socket [id: QbyQC9d2sCZarjJ-AAAh]
+16.7.2024, 17:33:12 - INFO - New connected socket [id: 06LBxLildoGSXtqUAAAk]
+16.7.2024, 17:33:12 - INFO - New connected socket [id: tpGH9wmKmE-_u_awAAAl]
+16.7.2024, 17:33:12 - INFO - Setting socket.userId = null for socket [id: 06LBxLildoGSXtqUAAAk]
+16.7.2024, 17:33:12 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: tpGH9wmKmE-_u_awAAAl]
+16.7.2024, 17:34:32 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 17:34:33 - INFO - New connected socket [id: d-azw4d3awHTRhLrAAAC]
+16.7.2024, 17:34:33 - INFO - New connected socket [id: lIPXhn48sar3vohyAAAD]
+16.7.2024, 17:34:33 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 17:34:34 - INFO - New connected socket [id: XliO4H4SrBITAI8CAAAC]
+16.7.2024, 17:34:34 - INFO - New connected socket [id: eqFQR2xfaRYUd0WCAAAD]
+16.7.2024, 17:34:35 - INFO - New connected socket [id: YjDGqPTln92nLJjaAAAG]
+16.7.2024, 17:34:35 - INFO - New connected socket [id: w4aH2hhG2qZb5ZKtAAAH]
+16.7.2024, 17:34:42 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:34:42 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:34:43 - INFO - New connected socket [id: bvcp6iZiKF_iVV73AAAJ]
+16.7.2024, 17:34:43 - INFO - Req was made | /
+16.7.2024, 17:34:43 - INFO - Setting socket.userId = null for socket [id: bvcp6iZiKF_iVV73AAAJ]
+16.7.2024, 17:34:44 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:34:44 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:34:44 - INFO - New connected socket [id: 0Qr6lAwHXWwZQj3wAAAL]
+16.7.2024, 17:34:44 - INFO - Req was made | /
+16.7.2024, 17:34:44 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: 0Qr6lAwHXWwZQj3wAAAL]
+16.7.2024, 17:35:54 - INFO - New connected socket [id: d3dKyNe_DhcAku4wAAAO]
+16.7.2024, 17:35:54 - INFO - New connected socket [id: PDmr_QVVkiufpQfKAAAP]
+16.7.2024, 17:35:54 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: d3dKyNe_DhcAku4wAAAO]
+16.7.2024, 17:35:54 - INFO - Setting socket.userId = null for socket [id: PDmr_QVVkiufpQfKAAAP]
+16.7.2024, 17:35:57 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:35:57 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:35:57 - INFO - New connected socket [id: YQPMvweCu5I9V_AHAAAR]
+16.7.2024, 17:35:57 - INFO - Req was made | /
+16.7.2024, 17:35:57 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: YQPMvweCu5I9V_AHAAAR]
+16.7.2024, 17:38:39 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 17:38:41 - INFO - New connected socket [id: y1fTtmwid2Cd0g1EAAAD]
+16.7.2024, 17:38:41 - INFO - New connected socket [id: 5d8BdHGGGqdpEAIzAAAE]
+16.7.2024, 17:38:41 - INFO - New connected socket [id: ZVwSg_nb48DRp5N9AAAF]
+16.7.2024, 17:38:41 - INFO - Setting socket.userId = null for socket [id: y1fTtmwid2Cd0g1EAAAD]
+16.7.2024, 17:38:41 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: 5d8BdHGGGqdpEAIzAAAE]
+16.7.2024, 17:38:41 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: ZVwSg_nb48DRp5N9AAAF]
+16.7.2024, 17:38:42 - INFO - Server listening on port http://127.0.0.1:3030/
+16.7.2024, 17:38:44 - INFO - New connected socket [id: ZA8ZkOS3eS6vXN8jAAAD]
+16.7.2024, 17:38:44 - INFO - New connected socket [id: yYkqycqpXsAZwo-FAAAE]
+16.7.2024, 17:38:44 - INFO - New connected socket [id: OuZU3DC3XEkgE8OpAAAF]
+16.7.2024, 17:38:48 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:38:48 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:38:48 - INFO - New connected socket [id: oP00pwaj4_lYC2xYAAAH]
+16.7.2024, 17:38:48 - INFO - Req was made | /
+16.7.2024, 17:38:48 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: oP00pwaj4_lYC2xYAAAH]
+16.7.2024, 17:38:48 - INFO - Req was made | /
+16.7.2024, 17:38:57 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:38:57 - INFO - Req was made | /
+16.7.2024, 17:38:57 - INFO - New connected socket [id: lrKG5gT3fn5ZG0f9AAAJ]
+16.7.2024, 17:38:57 - INFO - Setting socket.userId = null for socket [id: lrKG5gT3fn5ZG0f9AAAJ]
+16.7.2024, 17:38:58 - INFO - Req was made | /
+16.7.2024, 17:39:00 - INFO - Req was made | /
+16.7.2024, 17:39:02 - INFO - Req was made | /
+16.7.2024, 17:39:04 - INFO - New chat msg from socket [id: oP00pwaj4_lYC2xYAAAH], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 17:39:08 - INFO - New chat msg from socket [id: oP00pwaj4_lYC2xYAAAH], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 17:39:10 - INFO - New chat msg from socket [id: oP00pwaj4_lYC2xYAAAH], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 17:39:11 - INFO - New chat msg from socket [id: oP00pwaj4_lYC2xYAAAH], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 17:51:32 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:51:32 - INFO - New connected socket [id: ObWjX7AhZXh4dOY8AAAL]
+16.7.2024, 17:51:33 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: ObWjX7AhZXh4dOY8AAAL]
+16.7.2024, 17:51:33 - INFO - Req was made | /
+16.7.2024, 17:51:35 - INFO - New chat msg from socket [id: ObWjX7AhZXh4dOY8AAAL], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 17:52:17 - INFO - New connected socket [id: IwjnG_0afp3NEnm_AAAN]
+16.7.2024, 17:52:17 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: IwjnG_0afp3NEnm_AAAN]
+16.7.2024, 17:52:17 - INFO - New connected socket [id: B9ICiLwIrcmXHwRCAAAP]
+16.7.2024, 17:52:17 - INFO - Setting socket.userId = null for socket [id: B9ICiLwIrcmXHwRCAAAP]
+16.7.2024, 17:53:05 - INFO - New connected socket [id: F7DaIxetuAxynEg-AAAS]
+16.7.2024, 17:53:05 - INFO - New connected socket [id: EZWz3n5fjTxjBjSyAAAT]
+16.7.2024, 17:53:05 - INFO - Setting socket.userId = null for socket [id: EZWz3n5fjTxjBjSyAAAT]
+16.7.2024, 17:53:05 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: F7DaIxetuAxynEg-AAAS]
+16.7.2024, 17:53:29 - INFO - New chat msg from socket [id: F7DaIxetuAxynEg-AAAS], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 17:53:31 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:53:31 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:53:31 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:53:31 - INFO - New connected socket [id: lIzGXxoRdX0qzsN_AAAV]
+16.7.2024, 17:53:31 - INFO - Req was made | /
+16.7.2024, 17:53:31 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: lIzGXxoRdX0qzsN_AAAV]
+16.7.2024, 17:53:32 - INFO - New chat msg from socket [id: lIzGXxoRdX0qzsN_AAAV], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 17:53:51 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:53:51 - INFO - New connected socket [id: p-N2Mjk9tEknGgQiAAAX]
+16.7.2024, 17:53:51 - INFO - Req was made | /
+16.7.2024, 17:53:51 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: p-N2Mjk9tEknGgQiAAAX]
+16.7.2024, 17:53:52 - INFO - New chat msg from socket [id: p-N2Mjk9tEknGgQiAAAX], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 17:54:04 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 17:54:05 - INFO - New connected socket [id: JRaxURa9teiY8NE6AAAZ]
+16.7.2024, 17:54:05 - INFO - Req was made | /
+16.7.2024, 17:54:05 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: JRaxURa9teiY8NE6AAAZ]
+16.7.2024, 17:54:05 - INFO - New chat msg from socket [id: JRaxURa9teiY8NE6AAAZ], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 17:54:14 - INFO - New chat msg from socket [id: JRaxURa9teiY8NE6AAAZ], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 17:54:16 - INFO - New chat msg from socket [id: JRaxURa9teiY8NE6AAAZ], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 17:54:16 - INFO - New chat msg from socket [id: JRaxURa9teiY8NE6AAAZ], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 17:59:25 - INFO - New chat msg from socket [id: EZWz3n5fjTxjBjSyAAAT], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:04:51 - INFO - New chat msg from socket [id: JRaxURa9teiY8NE6AAAZ], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:04:52 - INFO - New chat msg from socket [id: JRaxURa9teiY8NE6AAAZ], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:04:54 - INFO - New chat msg from socket [id: JRaxURa9teiY8NE6AAAZ], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:04:59 - INFO - New chat msg from socket [id: JRaxURa9teiY8NE6AAAZ], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:05:03 - INFO - New chat msg from socket [id: EZWz3n5fjTxjBjSyAAAT], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:05:07 - INFO - New chat msg from socket [id: EZWz3n5fjTxjBjSyAAAT], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:06:43 - INFO - Req was made | /
+16.7.2024, 18:06:44 - INFO - Req was made | /
+16.7.2024, 18:06:45 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:06:45 - INFO - New connected socket [id: hQOfxK3izQXavK1sAAAb]
+16.7.2024, 18:06:45 - INFO - Req was made | /
+16.7.2024, 18:06:45 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: hQOfxK3izQXavK1sAAAb]
+16.7.2024, 18:06:48 - INFO - New chat msg from socket [id: hQOfxK3izQXavK1sAAAb], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:06:54 - INFO - New chat msg from socket [id: hQOfxK3izQXavK1sAAAb], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:08:28 - INFO - Req was made | /
+16.7.2024, 18:08:29 - INFO - Req was made | /
+16.7.2024, 18:08:55 - INFO - Req was made | /
+16.7.2024, 18:08:55 - INFO - Req was made | /
+16.7.2024, 18:09:07 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:09:07 - INFO - New connected socket [id: BWi_moVTuOSS44sLAAAd]
+16.7.2024, 18:09:08 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: BWi_moVTuOSS44sLAAAd]
+16.7.2024, 18:09:08 - INFO - Req was made | /
+16.7.2024, 18:09:13 - INFO - New chat msg from socket [id: BWi_moVTuOSS44sLAAAd], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:09:14 - INFO - New chat msg from socket [id: BWi_moVTuOSS44sLAAAd], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:09:28 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:09:28 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:09:28 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:09:29 - INFO - New connected socket [id: NmXrFE8ADqf21XoKAAAf]
+16.7.2024, 18:09:29 - INFO - Setting socket.userId = null for socket [id: NmXrFE8ADqf21XoKAAAf]
+16.7.2024, 18:09:29 - INFO - Req was made | /
+16.7.2024, 18:09:30 - INFO - New chat msg from socket [id: NmXrFE8ADqf21XoKAAAf], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:09:36 - INFO - New chat msg from socket [id: NmXrFE8ADqf21XoKAAAf], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:09:37 - INFO - New chat msg from socket [id: NmXrFE8ADqf21XoKAAAf], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:09:38 - INFO - New chat msg from socket [id: NmXrFE8ADqf21XoKAAAf], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:10:03 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:10:03 - INFO - New connected socket [id: PqQFzhr1oYaLsFAAAAAh]
+16.7.2024, 18:10:03 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: PqQFzhr1oYaLsFAAAAAh]
+16.7.2024, 18:10:03 - INFO - Req was made | /
+16.7.2024, 18:10:04 - INFO - New chat msg from socket [id: PqQFzhr1oYaLsFAAAAAh], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:10:10 - INFO - New chat msg from socket [id: PqQFzhr1oYaLsFAAAAAh], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:10:49 - INFO - New chat msg from socket [id: PqQFzhr1oYaLsFAAAAAh], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:10:52 - INFO - New chat msg from socket [id: PqQFzhr1oYaLsFAAAAAh], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:11:09 - INFO - New chat msg from socket [id: PqQFzhr1oYaLsFAAAAAh], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:11:10 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:11:10 - INFO - New connected socket [id: JD9BHlPQ1IGegUEXAAAj]
+16.7.2024, 18:11:10 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: JD9BHlPQ1IGegUEXAAAj]
+16.7.2024, 18:11:10 - INFO - Req was made | /
+16.7.2024, 18:11:12 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:11:12 - INFO - New connected socket [id: OElEB1AQX0c4Zr-sAAAl]
+16.7.2024, 18:11:13 - INFO - Setting socket.userId = null for socket [id: OElEB1AQX0c4Zr-sAAAl]
+16.7.2024, 18:11:13 - INFO - Req was made | /
+16.7.2024, 18:11:14 - INFO - New chat msg from socket [id: JD9BHlPQ1IGegUEXAAAj], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:11:18 - INFO - New chat msg from socket [id: JD9BHlPQ1IGegUEXAAAj], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:11:19 - INFO - New chat msg from socket [id: JD9BHlPQ1IGegUEXAAAj], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:11:21 - INFO - New chat msg from socket [id: JD9BHlPQ1IGegUEXAAAj], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:13:26 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:13:26 - INFO - New connected socket [id: EqSQI-UDQPhXx96VAAAn]
+16.7.2024, 18:13:26 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: EqSQI-UDQPhXx96VAAAn]
+16.7.2024, 18:13:26 - INFO - Req was made | /
+16.7.2024, 18:13:29 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:13:29 - INFO - New connected socket [id: 365A-vMSmKJ70kJlAAAp]
+16.7.2024, 18:13:30 - INFO - Req was made | /
+16.7.2024, 18:13:30 - INFO - Setting socket.userId = null for socket [id: 365A-vMSmKJ70kJlAAAp]
+16.7.2024, 18:13:31 - INFO - New chat msg from socket [id: EqSQI-UDQPhXx96VAAAn], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:13:35 - INFO - New chat msg from socket [id: EqSQI-UDQPhXx96VAAAn], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:13:38 - INFO - New chat msg from socket [id: EqSQI-UDQPhXx96VAAAn], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:13:40 - INFO - New chat msg from socket [id: EqSQI-UDQPhXx96VAAAn], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:13:41 - INFO - New chat msg from socket [id: EqSQI-UDQPhXx96VAAAn], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:14:59 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:14:59 - INFO - New connected socket [id: dLvBIMpvqnPVSckJAAAr]
+16.7.2024, 18:14:59 - INFO - Req was made | /
+16.7.2024, 18:14:59 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: dLvBIMpvqnPVSckJAAAr]
+16.7.2024, 18:15:03 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:15:03 - INFO - New connected socket [id: tynByB7yALLtvF3BAAAt]
+16.7.2024, 18:15:03 - INFO - Setting socket.userId = null for socket [id: tynByB7yALLtvF3BAAAt]
+16.7.2024, 18:15:03 - INFO - Req was made | /
+16.7.2024, 18:15:06 - INFO - New chat msg from socket [id: dLvBIMpvqnPVSckJAAAr], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:15:11 - INFO - New chat msg from socket [id: dLvBIMpvqnPVSckJAAAr], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:15:55 - INFO - New chat msg from socket [id: dLvBIMpvqnPVSckJAAAr], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:16:00 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:16:00 - INFO - New connected socket [id: hSNnmgvmrw6KlI7GAAAv]
+16.7.2024, 18:16:00 - INFO - Req was made | /
+16.7.2024, 18:16:00 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: hSNnmgvmrw6KlI7GAAAv]
+16.7.2024, 18:16:01 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:16:01 - INFO - New connected socket [id: wCI1AtgFCUKwmpVMAAAx]
+16.7.2024, 18:16:01 - INFO - Req was made | /
+16.7.2024, 18:16:01 - INFO - Setting socket.userId = null for socket [id: wCI1AtgFCUKwmpVMAAAx]
+16.7.2024, 18:16:02 - INFO - New chat msg from socket [id: hSNnmgvmrw6KlI7GAAAv], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:16:03 - INFO - New chat msg from socket [id: hSNnmgvmrw6KlI7GAAAv], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:16:25 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:16:25 - INFO - New connected socket [id: AKgWVxEWbefE7VeDAAAz]
+16.7.2024, 18:16:25 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: AKgWVxEWbefE7VeDAAAz]
+16.7.2024, 18:16:25 - INFO - Req was made | /
+16.7.2024, 18:16:28 - INFO - New chat msg from socket [id: AKgWVxEWbefE7VeDAAAz], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:16:29 - INFO - New chat msg from socket [id: AKgWVxEWbefE7VeDAAAz], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:16:34 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:16:34 - INFO - New connected socket [id: TdcnLoVRDSrBNHb3AAA1]
+16.7.2024, 18:16:34 - INFO - Setting socket.userId = null for socket [id: TdcnLoVRDSrBNHb3AAA1]
+16.7.2024, 18:16:34 - INFO - Req was made | /
+16.7.2024, 18:16:35 - INFO - New chat msg from socket [id: AKgWVxEWbefE7VeDAAAz], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:16:36 - INFO - New chat msg from socket [id: AKgWVxEWbefE7VeDAAAz], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:16:37 - INFO - New chat msg from socket [id: AKgWVxEWbefE7VeDAAAz], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:17:07 - INFO - New chat msg from socket [id: AKgWVxEWbefE7VeDAAAz], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:17:08 - INFO - New chat msg from socket [id: AKgWVxEWbefE7VeDAAAz], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:17:22 - INFO - New chat msg from socket [id: AKgWVxEWbefE7VeDAAAz], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:17:24 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:17:24 - INFO - New connected socket [id: AptrEl19XiW5mOb9AAA3]
+16.7.2024, 18:17:24 - INFO - Setting socket.userId = null for socket [id: AptrEl19XiW5mOb9AAA3]
+16.7.2024, 18:17:24 - INFO - Req was made | /
+16.7.2024, 18:17:27 - INFO - New chat msg from socket [id: AptrEl19XiW5mOb9AAA3], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:17:31 - INFO - New chat msg from socket [id: AptrEl19XiW5mOb9AAA3], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:17:32 - INFO - New chat msg from socket [id: AKgWVxEWbefE7VeDAAAz], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:17:52 - INFO - New chat msg from socket [id: AKgWVxEWbefE7VeDAAAz], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:17:55 - INFO - New chat msg from socket [id: AKgWVxEWbefE7VeDAAAz], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:18:58 - INFO - New chat msg from socket [id: AKgWVxEWbefE7VeDAAAz], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:19:01 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:19:01 - INFO - New connected socket [id: eNfofve3YnqNdX61AAA5]
+16.7.2024, 18:19:01 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: eNfofve3YnqNdX61AAA5]
+16.7.2024, 18:19:01 - INFO - Req was made | /
+16.7.2024, 18:19:04 - INFO - New chat msg from socket [id: AptrEl19XiW5mOb9AAA3], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:19:05 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:19:05 - INFO - New connected socket [id: i2OWqTotloM1HgnlAAA7]
+16.7.2024, 18:19:05 - INFO - Setting socket.userId = null for socket [id: i2OWqTotloM1HgnlAAA7]
+16.7.2024, 18:19:05 - INFO - Req was made | /
+16.7.2024, 18:19:06 - INFO - New chat msg from socket [id: i2OWqTotloM1HgnlAAA7], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:19:15 - INFO - New chat msg from socket [id: i2OWqTotloM1HgnlAAA7], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:19:49 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:19:49 - INFO - New connected socket [id: XVlTiaVLH7ZZ0gz8AAA9]
+16.7.2024, 18:19:49 - INFO - Req was made | /
+16.7.2024, 18:19:49 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: XVlTiaVLH7ZZ0gz8AAA9]
+16.7.2024, 18:19:50 - INFO - New chat msg from socket [id: XVlTiaVLH7ZZ0gz8AAA9], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:19:53 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:19:54 - INFO - New connected socket [id: MhxgyII-4iBojr1uAAA_]
+16.7.2024, 18:19:54 - INFO - Setting socket.userId = null for socket [id: MhxgyII-4iBojr1uAAA_]
+16.7.2024, 18:19:54 - INFO - Req was made | /
+16.7.2024, 18:19:55 - INFO - New chat msg from socket [id: MhxgyII-4iBojr1uAAA_], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:20:39 - INFO - New chat msg from socket [id: XVlTiaVLH7ZZ0gz8AAA9], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:20:42 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:20:42 - INFO - New connected socket [id: 0nLtn1L47wOIfHdKAABB]
+16.7.2024, 18:20:42 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: 0nLtn1L47wOIfHdKAABB]
+16.7.2024, 18:20:42 - INFO - Req was made | /
+16.7.2024, 18:20:46 - INFO - New chat msg from socket [id: MhxgyII-4iBojr1uAAA_], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:20:49 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:20:50 - INFO - New connected socket [id: af-UaaoIFpvp4dmoAABD]
+16.7.2024, 18:20:50 - INFO - Setting socket.userId = null for socket [id: af-UaaoIFpvp4dmoAABD]
+16.7.2024, 18:20:50 - INFO - Req was made | /
+16.7.2024, 18:20:51 - INFO - New chat msg from socket [id: af-UaaoIFpvp4dmoAABD], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:20:55 - INFO - New chat msg from socket [id: af-UaaoIFpvp4dmoAABD], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:21:17 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:21:17 - INFO - New connected socket [id: TN0Hdmv4aOSsKpBIAABF]
+16.7.2024, 18:21:17 - INFO - Req was made | /
+16.7.2024, 18:21:17 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: TN0Hdmv4aOSsKpBIAABF]
+16.7.2024, 18:21:20 - INFO - New chat msg from socket [id: af-UaaoIFpvp4dmoAABD], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:21:22 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:21:22 - INFO - New connected socket [id: fx2AOC9FfLMV9gn3AABH]
+16.7.2024, 18:21:22 - INFO - Req was made | /
+16.7.2024, 18:21:22 - INFO - Setting socket.userId = null for socket [id: fx2AOC9FfLMV9gn3AABH]
+16.7.2024, 18:21:23 - INFO - New chat msg from socket [id: fx2AOC9FfLMV9gn3AABH], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:21:25 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:21:25 - INFO - New connected socket [id: eCR8JSVUcm-Tq2S_AABJ]
+16.7.2024, 18:21:25 - INFO - Req was made | /
+16.7.2024, 18:21:25 - INFO - Setting socket.userId = null for socket [id: eCR8JSVUcm-Tq2S_AABJ]
+16.7.2024, 18:21:27 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:21:28 - INFO - New connected socket [id: 6i1RxEa8J6YC1pO-AABL]
+16.7.2024, 18:21:28 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: 6i1RxEa8J6YC1pO-AABL]
+16.7.2024, 18:21:28 - INFO - Req was made | /
+16.7.2024, 18:21:30 - INFO - New chat msg from socket [id: eCR8JSVUcm-Tq2S_AABJ], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:22:34 - INFO - New chat msg from socket [id: 6i1RxEa8J6YC1pO-AABL], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:22:37 - INFO - New chat msg from socket [id: 6i1RxEa8J6YC1pO-AABL], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:23:24 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:23:24 - INFO - New connected socket [id: 3MWbT9kNmGDoBBtJAABN]
+16.7.2024, 18:23:24 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: 3MWbT9kNmGDoBBtJAABN]
+16.7.2024, 18:23:24 - INFO - Req was made | /
+16.7.2024, 18:23:28 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:23:29 - INFO - New connected socket [id: hM3uSgI9iIh1wTk0AABP]
+16.7.2024, 18:23:29 - INFO - Setting socket.userId = null for socket [id: hM3uSgI9iIh1wTk0AABP]
+16.7.2024, 18:23:29 - INFO - Req was made | /
+16.7.2024, 18:23:29 - INFO - New chat msg from socket [id: hM3uSgI9iIh1wTk0AABP], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:27:13 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:27:13 - INFO - New connected socket [id: otXEv1f4tF0J5N17AABR]
+16.7.2024, 18:27:13 - INFO - Setting socket.userId = null for socket [id: otXEv1f4tF0J5N17AABR]
+16.7.2024, 18:27:13 - INFO - Req was made | /
+16.7.2024, 18:27:14 - INFO - New chat msg from socket [id: otXEv1f4tF0J5N17AABR], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:27:36 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:27:36 - INFO - New connected socket [id: Jsa_qlf2R6qttt36AABT]
+16.7.2024, 18:27:36 - INFO - Req was made | /
+16.7.2024, 18:27:36 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: Jsa_qlf2R6qttt36AABT]
+16.7.2024, 18:27:38 - INFO - New chat msg from socket [id: Jsa_qlf2R6qttt36AABT], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:28:24 - INFO - Req was made | /
+16.7.2024, 18:28:24 - INFO - Req was made | /
+16.7.2024, 18:28:25 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:28:25 - INFO - New connected socket [id: rpHPahPrxg7-EOFRAABV]
+16.7.2024, 18:28:26 - INFO - Req was made | /
+16.7.2024, 18:28:26 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: rpHPahPrxg7-EOFRAABV]
+16.7.2024, 18:28:26 - INFO - New chat msg from socket [id: rpHPahPrxg7-EOFRAABV], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:29:42 - INFO - Req was made | /
+16.7.2024, 18:29:43 - INFO - Req was made | /
+16.7.2024, 18:29:44 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:29:44 - INFO - New connected socket [id: ABnf7jVrN1WrAcKLAABX]
+16.7.2024, 18:29:44 - INFO - Req was made | /
+16.7.2024, 18:29:44 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: ABnf7jVrN1WrAcKLAABX]
+16.7.2024, 18:29:45 - INFO - New chat msg from socket [id: ABnf7jVrN1WrAcKLAABX], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:29:51 - INFO - Req was made | /
+16.7.2024, 18:29:52 - INFO - Req was made | /
+16.7.2024, 18:30:12 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:30:12 - INFO - New connected socket [id: WzrIM3Ma6-FIoiy4AABZ]
+16.7.2024, 18:30:12 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: WzrIM3Ma6-FIoiy4AABZ]
+16.7.2024, 18:30:12 - INFO - Req was made | /
+16.7.2024, 18:30:14 - INFO - New chat msg from socket [id: WzrIM3Ma6-FIoiy4AABZ], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:30:56 - INFO - Req was made | /
+16.7.2024, 18:30:57 - INFO - Req was made | /
+16.7.2024, 18:30:59 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:30:59 - INFO - New connected socket [id: xa8gHgzS5yK2C7DlAABb]
+16.7.2024, 18:30:59 - INFO - Req was made | /
+16.7.2024, 18:30:59 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: xa8gHgzS5yK2C7DlAABb]
+16.7.2024, 18:31:03 - INFO - New chat msg from socket [id: xa8gHgzS5yK2C7DlAABb], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:31:46 - INFO - Req was made | /
+16.7.2024, 18:31:47 - INFO - Req was made | /
+16.7.2024, 18:31:48 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:31:48 - INFO - New connected socket [id: AZlq3U7B4akgGv35AABd]
+16.7.2024, 18:31:48 - INFO - Req was made | /
+16.7.2024, 18:31:48 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: AZlq3U7B4akgGv35AABd]
+16.7.2024, 18:31:49 - INFO - New chat msg from socket [id: AZlq3U7B4akgGv35AABd], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:31:55 - INFO - New chat msg from socket [id: AZlq3U7B4akgGv35AABd], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:32:46 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:32:46 - INFO - New connected socket [id: 9uU6LN-PIWJCYOegAABf]
+16.7.2024, 18:32:46 - INFO - Req was made | /
+16.7.2024, 18:32:46 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: 9uU6LN-PIWJCYOegAABf]
+16.7.2024, 18:32:48 - INFO - New chat msg from socket [id: 9uU6LN-PIWJCYOegAABf], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:32:51 - INFO - New chat msg from socket [id: 9uU6LN-PIWJCYOegAABf], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:34:03 - INFO - Req was made | /
+16.7.2024, 18:34:06 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:34:06 - INFO - New connected socket [id: gKttCuVJJq7RdQFhAABh]
+16.7.2024, 18:34:06 - INFO - Req was made | /
+16.7.2024, 18:34:06 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: gKttCuVJJq7RdQFhAABh]
+16.7.2024, 18:34:06 - INFO - New chat msg from socket [id: gKttCuVJJq7RdQFhAABh], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:34:09 - INFO - New chat msg from socket [id: gKttCuVJJq7RdQFhAABh], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:34:54 - INFO - New chat msg from socket [id: gKttCuVJJq7RdQFhAABh], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:34:57 - INFO - New chat msg from socket [id: gKttCuVJJq7RdQFhAABh], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:34:58 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:34:58 - INFO - New connected socket [id: rpri0NF_9mBr33ceAABj]
+16.7.2024, 18:34:58 - INFO - Req was made | /
+16.7.2024, 18:34:58 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: rpri0NF_9mBr33ceAABj]
+16.7.2024, 18:34:59 - INFO - New chat msg from socket [id: rpri0NF_9mBr33ceAABj], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:35:00 - INFO - New chat msg from socket [id: rpri0NF_9mBr33ceAABj], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:35:04 - INFO - New chat msg from socket [id: rpri0NF_9mBr33ceAABj], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:35:05 - INFO - New chat msg from socket [id: rpri0NF_9mBr33ceAABj], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:35:07 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:35:07 - INFO - New connected socket [id: QWUKi0WBc3HRurIwAABl]
+16.7.2024, 18:35:07 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: QWUKi0WBc3HRurIwAABl]
+16.7.2024, 18:35:07 - INFO - Req was made | /
+16.7.2024, 18:35:08 - INFO - New chat msg from socket [id: QWUKi0WBc3HRurIwAABl], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:35:09 - INFO - New chat msg from socket [id: QWUKi0WBc3HRurIwAABl], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:35:44 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:35:44 - INFO - New connected socket [id: 0BykSTNBy5vFzuXAAABn]
+16.7.2024, 18:35:44 - INFO - Setting socket.userId = null for socket [id: 0BykSTNBy5vFzuXAAABn]
+16.7.2024, 18:35:44 - INFO - Req was made | /
+16.7.2024, 18:35:46 - INFO - New chat msg from socket [id: 0BykSTNBy5vFzuXAAABn], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:35:58 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:35:58 - INFO - New connected socket [id: SopriFHC5khNXmRjAABp]
+16.7.2024, 18:35:58 - INFO - Req was made | /
+16.7.2024, 18:35:58 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: SopriFHC5khNXmRjAABp]
+16.7.2024, 18:35:59 - INFO - New chat msg from socket [id: SopriFHC5khNXmRjAABp], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:36:03 - INFO - New chat msg from socket [id: SopriFHC5khNXmRjAABp], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:36:18 - INFO - New chat msg from socket [id: SopriFHC5khNXmRjAABp], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:36:21 - INFO - New chat msg from socket [id: SopriFHC5khNXmRjAABp], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:38:23 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:38:23 - INFO - New connected socket [id: Xxy4uUrrHZec_h5nAABr]
+16.7.2024, 18:38:23 - INFO - Req was made | /
+16.7.2024, 18:38:23 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: Xxy4uUrrHZec_h5nAABr]
+16.7.2024, 18:38:25 - INFO - New chat msg from socket [id: Xxy4uUrrHZec_h5nAABr], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:38:42 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:38:42 - INFO - New connected socket [id: hqZZckSENctKvWA0AABt]
+16.7.2024, 18:38:42 - INFO - Req was made | /
+16.7.2024, 18:38:42 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: hqZZckSENctKvWA0AABt]
+16.7.2024, 18:38:43 - INFO - New chat msg from socket [id: hqZZckSENctKvWA0AABt], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:38:44 - INFO - New chat msg from socket [id: hqZZckSENctKvWA0AABt], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:38:50 - INFO - New chat msg from socket [id: 0BykSTNBy5vFzuXAAABn], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:38:52 - INFO - New chat msg from socket [id: 0BykSTNBy5vFzuXAAABn], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:39:34 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:39:34 - INFO - New connected socket [id: 9EGdwZrywMvarhIpAABv]
+16.7.2024, 18:39:34 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: 9EGdwZrywMvarhIpAABv]
+16.7.2024, 18:39:34 - INFO - Req was made | /
+16.7.2024, 18:39:40 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:39:41 - INFO - New connected socket [id: loz-VVSRLjzBzD3hAABx]
+16.7.2024, 18:39:41 - INFO - Setting socket.userId = null for socket [id: loz-VVSRLjzBzD3hAABx]
+16.7.2024, 18:39:41 - INFO - Req was made | /
+16.7.2024, 18:39:42 - INFO - New chat msg from socket [id: loz-VVSRLjzBzD3hAABx], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:39:51 - INFO - New chat msg from socket [id: loz-VVSRLjzBzD3hAABx], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:39:53 - INFO - New chat msg from socket [id: 9EGdwZrywMvarhIpAABv], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:41:06 - INFO - New chat msg from socket [id: 9EGdwZrywMvarhIpAABv], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:41:24 - INFO - Socket disconnected [id: undefined]
+16.7.2024, 18:41:24 - INFO - New connected socket [id: 7zm6bLrG8ya9MLmPAABz]
+16.7.2024, 18:41:24 - INFO - Req was made | /
+16.7.2024, 18:41:24 - INFO - Setting socket.userId = 66958a9c0dea5566d633a658 for socket [id: 7zm6bLrG8ya9MLmPAABz]
+16.7.2024, 18:41:25 - INFO - New chat msg from socket [id: 7zm6bLrG8ya9MLmPAABz], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:41:33 - INFO - New chat msg from socket [id: loz-VVSRLjzBzD3hAABx], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:41:36 - INFO - New chat msg from socket [id: 7zm6bLrG8ya9MLmPAABz], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:41:37 - INFO - New chat msg from socket [id: 7zm6bLrG8ya9MLmPAABz], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:41:39 - INFO - New chat msg from socket [id: 7zm6bLrG8ya9MLmPAABz], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:41:40 - INFO - New chat msg from socket [id: loz-VVSRLjzBzD3hAABx], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:41:56 - INFO - New chat msg from socket [id: loz-VVSRLjzBzD3hAABx], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:42:00 - INFO - New chat msg from socket [id: 7zm6bLrG8ya9MLmPAABz], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:42:09 - INFO - New chat msg from socket [id: loz-VVSRLjzBzD3hAABx], emitting to topic 6693e0a0dad65791ad9648c1
+16.7.2024, 18:42:11 - INFO - New chat msg from socket [id: loz-VVSRLjzBzD3hAABx], emitting to topic 6693e0a0dad65791ad9648c1

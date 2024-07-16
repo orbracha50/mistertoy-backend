@@ -1,5 +1,5 @@
 
-import { loggerService } from '../../services/logger,service.js'
+import { loggerService } from '../../services/logger.service.js'
 import { authService } from './auth.service.js'
 
 export async function login(req, res) {
