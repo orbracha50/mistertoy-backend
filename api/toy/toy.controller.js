@@ -3,10 +3,9 @@ import { toyService } from './toy.service.js'
 
 
 export async function getToys(req, res) {
+    
     try {
-        const filterBy = {
-            txt: req.query.txt || '',
-        }
+        const filterBy = req.query.filterBy || ''
         const toys = await toyService.query(filterBy)
         res.json(toys)
     } catch (err) {

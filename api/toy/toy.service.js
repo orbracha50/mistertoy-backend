@@ -15,10 +15,9 @@ export const toyService = {
 }
 
 async function query(filterBy = { txt: '' }) {
+    console.log(filterBy)
 	try {
-		const criteria = {
-			vendor: { $regex: filterBy.txt, $options: 'i' },
-		}
+		const criteria = _buildCriteria(filterBy)
 		const collection = await dbService.getCollection('toy')
 		var toys = await collection.find(criteria).toArray()
 		return toys
@@ -63,13 +62,15 @@ async function add(toy) {
 }
 
 async function update(toy) {
+    console.log(toy)
 	try {
 		const toyToSave = {
-			vendor: toy.vendor,
+			name: toy.name,
 			price: toy.price,
 		}
 		const collection = await dbService.getCollection('toy')
 		await collection.updateOne({ _id: ObjectId.createFromHexString(toy._id) }, { $set: toyToSave })
+        console.log(toy)
 		return toy
 	} catch (err) {
 		loggerService.error(`cannot update toy ${toyId}`, err)
@@ -100,3 +101,22 @@ async function removeToyMsg(toyId, msgId) {
 		throw err
 	}
 }
+function _buildCriteria(filterBy) {
+    const { labels, name, stock } = filterBy
+  
+    const criteria = {}
+  
+    if (name) {
+      criteria.name = { $regex: name, $options: "i" }
+    }
+  
+    if (labels && labels.length) {
+      criteria.labels = { $in: labels }
+    }
+  
+   /*  if (stock) {
+      criteria.inStock = {}
+    } */
+  
+    return criteria
+  }

@@ -13,7 +13,7 @@ export async function login(req, res) {
 
         res.json(user)
     } catch (err) {
-        logger.error('Failed to Login ' + err)
+        loggerService.error('Failed to Login ' + err)
         res.status(401).send({ err: 'Failed to Login' })
     }
 }
@@ -35,7 +35,7 @@ export async function signup(req, res) {
         res.cookie('loginToken', loginToken)
         res.json(user)
     } catch (err) {
-        logger.error('Failed to signup ' + err)
+        loggerService.error('Failed to signup ' + err)
         res.status(500).send({ err: 'Failed to signup' })
     }
 }
